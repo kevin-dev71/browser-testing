@@ -1,10 +1,10 @@
 # Test Webkit Safari browser
 
 1. `clone the repo`
-2. `yarn install`
-3. `npx playwright install`
-4. `cd browser-testing`
-5. `yarn test:safari`
+2. `cd browser-testing`
+3. `yarn install`
+4. `npx playwright install`
+6. `yarn test:safari`
    
    it will open a Webkit browser in localhost:3000
 
